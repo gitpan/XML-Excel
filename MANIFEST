@@ -2,7 +2,7 @@ CHANGES
 MANIFEST
 Makefile.PL
 Excel.pm
-Test.pl
+test.pl
 Data1.xls
 Data2.xls
 README
